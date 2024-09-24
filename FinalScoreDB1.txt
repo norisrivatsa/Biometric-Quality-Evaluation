@@ -1,0 +1,399 @@
+Image: 101_1.tif
+Blur Score: 1261.344572143518
+Minutiae Points: 480
+Total Score: 30
+
+Image: 101_2.tif
+Blur Score: 787.6726614051697
+Minutiae Points: 409
+Total Score: 30
+
+Image: 101_3.tif
+Blur Score: 1934.5759462761132
+Minutiae Points: 517
+Total Score: 30
+
+Image: 101_4.tif
+Blur Score: 1445.2352907157226
+Minutiae Points: 59
+Total Score: 10
+
+Image: 101_5.tif
+Blur Score: 1016.3105714600317
+Minutiae Points: 44
+Total Score: 10
+
+Image: 101_6.tif
+Blur Score: 2700.020857468337
+Minutiae Points: 708
+Total Score: 40
+
+Image: 101_7.tif
+Blur Score: 2054.9183213292654
+Minutiae Points: 760
+Total Score: 40
+
+Image: 101_8.tif
+Blur Score: 1451.8748320951086
+Minutiae Points: 192
+Total Score: 10
+
+Image: 102_1.tif
+Blur Score: 1178.470771327179
+Minutiae Points: 435
+Total Score: 30
+
+Image: 102_2.tif
+Blur Score: 1382.900481139784
+Minutiae Points: 540
+Total Score: 30
+
+Image: 102_3.tif
+Blur Score: 1587.1596997107317
+Minutiae Points: 384
+Total Score: 20
+
+Image: 102_4.tif
+Blur Score: 1958.5281692203744
+Minutiae Points: 382
+Total Score: 20
+
+Image: 102_5.tif
+Blur Score: 1308.1362646411012
+Minutiae Points: 196
+Total Score: 10
+
+Image: 102_6.tif
+Blur Score: 2472.128410109673
+Minutiae Points: 781
+Total Score: 40
+
+Image: 102_7.tif
+Blur Score: 1877.1047400457292
+Minutiae Points: 166
+Total Score: 10
+
+Image: 102_8.tif
+Blur Score: 1921.771630029836
+Minutiae Points: 105
+Total Score: 10
+
+Image: 103_1.tif
+Blur Score: 1144.2422411197033
+Minutiae Points: 578
+Total Score: 30
+
+Image: 103_2.tif
+Blur Score: 1156.6623500252867
+Minutiae Points: 566
+Total Score: 30
+
+Image: 103_3.tif
+Blur Score: 1862.1745768917322
+Minutiae Points: 458
+Total Score: 30
+
+Image: 103_4.tif
+Blur Score: 1196.6600035592537
+Minutiae Points: 356
+Total Score: 20
+
+Image: 103_5.tif
+Blur Score: 1886.660315841211
+Minutiae Points: 401
+Total Score: 30
+
+Image: 103_6.tif
+Blur Score: 4039.5097584744985
+Minutiae Points: 575
+Total Score: 30
+
+Image: 103_7.tif
+Blur Score: 2456.563798265259
+Minutiae Points: 429
+Total Score: 30
+
+Image: 103_8.tif
+Blur Score: 1521.509226015471
+Minutiae Points: 155
+Total Score: 10
+
+Image: 104_1.tif
+Blur Score: 1075.977582928261
+Minutiae Points: 445
+Total Score: 30
+
+Image: 104_2.tif
+Blur Score: 952.735768758727
+Minutiae Points: 581
+Total Score: 30
+
+Image: 104_3.tif
+Blur Score: 919.135887169188
+Minutiae Points: 501
+Total Score: 30
+
+Image: 104_4.tif
+Blur Score: 1666.4649976140572
+Minutiae Points: 576
+Total Score: 30
+
+Image: 104_5.tif
+Blur Score: 1501.6410647457096
+Minutiae Points: 467
+Total Score: 30
+
+Image: 104_6.tif
+Blur Score: 1492.6517314831917
+Minutiae Points: 498
+Total Score: 30
+
+Image: 104_7.tif
+Blur Score: 2135.785418913313
+Minutiae Points: 645
+Total Score: 40
+
+Image: 104_8.tif
+Blur Score: 1713.4297750802518
+Minutiae Points: 167
+Total Score: 10
+
+Image: 105_1.tif
+Blur Score: 1387.5917571508078
+Minutiae Points: 602
+Total Score: 40
+
+Image: 105_2.tif
+Blur Score: 1350.601411862193
+Minutiae Points: 384
+Total Score: 20
+
+Image: 105_3.tif
+Blur Score: 1391.848089517291
+Minutiae Points: 350
+Total Score: 20
+
+Image: 105_4.tif
+Blur Score: 1870.7330040979355
+Minutiae Points: 285
+Total Score: 20
+
+Image: 105_5.tif
+Blur Score: 2521.1447825475243
+Minutiae Points: 418
+Total Score: 30
+
+Image: 105_6.tif
+Blur Score: 1567.3040865559203
+Minutiae Points: 326
+Total Score: 20
+
+Image: 105_7.tif
+Blur Score: 3022.6642653948356
+Minutiae Points: 718
+Total Score: 40
+
+Image: 105_8.tif
+Blur Score: 1999.99934408748
+Minutiae Points: 106
+Total Score: 10
+
+Image: 106_1.tif
+Blur Score: 891.6942987583852
+Minutiae Points: 575
+Total Score: 30
+
+Image: 106_2.tif
+Blur Score: 987.0287231569823
+Minutiae Points: 602
+Total Score: 40
+
+Image: 106_3.tif
+Blur Score: 1811.9980108765603
+Minutiae Points: 542
+Total Score: 30
+
+Image: 106_4.tif
+Blur Score: 1814.2286600702314
+Minutiae Points: 473
+Total Score: 30
+
+Image: 106_5.tif
+Blur Score: 2128.301441163459
+Minutiae Points: 625
+Total Score: 40
+
+Image: 106_6.tif
+Blur Score: 2294.4127946450335
+Minutiae Points: 530
+Total Score: 30
+
+Image: 106_7.tif
+Blur Score: 1812.933770319277
+Minutiae Points: 519
+Total Score: 30
+
+Image: 106_8.tif
+Blur Score: 1360.3474338766932
+Minutiae Points: 225
+Total Score: 20
+
+Image: 107_1.tif
+Blur Score: 593.1621382377255
+Minutiae Points: 239
+Total Score: 20
+
+Image: 107_2.tif
+Blur Score: 807.6769881691381
+Minutiae Points: 272
+Total Score: 20
+
+Image: 107_3.tif
+Blur Score: 794.529935848377
+Minutiae Points: 243
+Total Score: 20
+
+Image: 107_4.tif
+Blur Score: 1598.8187195091236
+Minutiae Points: 346
+Total Score: 20
+
+Image: 107_5.tif
+Blur Score: 1440.4161661566152
+Minutiae Points: 358
+Total Score: 20
+
+Image: 107_6.tif
+Blur Score: 2047.4392906042197
+Minutiae Points: 650
+Total Score: 40
+
+Image: 107_7.tif
+Blur Score: 2206.6155696931587
+Minutiae Points: 626
+Total Score: 40
+
+Image: 107_8.tif
+Blur Score: 1384.2210766277265
+Minutiae Points: 47
+Total Score: 10
+
+Image: 108_1.tif
+Blur Score: 830.5919227219458
+Minutiae Points: 343
+Total Score: 20
+
+Image: 108_2.tif
+Blur Score: 877.5751353123212
+Minutiae Points: 323
+Total Score: 20
+
+Image: 108_3.tif
+Blur Score: 782.4939124120914
+Minutiae Points: 298
+Total Score: 20
+
+Image: 108_4.tif
+Blur Score: 695.1019926270193
+Minutiae Points: 448
+Total Score: 30
+
+Image: 108_5.tif
+Blur Score: 1590.332618600262
+Minutiae Points: 191
+Total Score: 10
+
+Image: 108_6.tif
+Blur Score: 2422.7935706994585
+Minutiae Points: 580
+Total Score: 30
+
+Image: 108_7.tif
+Blur Score: 2188.1105509372087
+Minutiae Points: 420
+Total Score: 30
+
+Image: 108_8.tif
+Blur Score: 1859.072728524576
+Minutiae Points: 348
+Total Score: 20
+
+Image: 109_1.tif
+Blur Score: 1321.7482280290533
+Minutiae Points: 82
+Total Score: 10
+
+Image: 109_2.tif
+Blur Score: 1520.3774566225964
+Minutiae Points: 162
+Total Score: 10
+
+Image: 109_3.tif
+Blur Score: 1326.400612039319
+Minutiae Points: 44
+Total Score: 10
+
+Image: 109_4.tif
+Blur Score: 1143.5313719076296
+Minutiae Points: 68
+Total Score: 10
+
+Image: 109_5.tif
+Blur Score: 1275.2761341561848
+Minutiae Points: 79
+Total Score: 10
+
+Image: 109_6.tif
+Blur Score: 647.837028799852
+Minutiae Points: 20
+Total Score: 10
+
+Image: 109_7.tif
+Blur Score: 1659.477506627866
+Minutiae Points: 422
+Total Score: 30
+
+Image: 109_8.tif
+Blur Score: 907.5442537952728
+Minutiae Points: 20
+Total Score: 10
+
+Image: 110_1.tif
+Blur Score: 897.4113392888024
+Minutiae Points: 134
+Total Score: 10
+
+Image: 110_2.tif
+Blur Score: 1035.6029753343362
+Minutiae Points: 136
+Total Score: 10
+
+Image: 110_3.tif
+Blur Score: 1089.2894969812412
+Minutiae Points: 88
+Total Score: 10
+
+Image: 110_4.tif
+Blur Score: 1067.1470891236236
+Minutiae Points: 97
+Total Score: 10
+
+Image: 110_5.tif
+Blur Score: 1134.6723074137349
+Minutiae Points: 140
+Total Score: 10
+
+Image: 110_6.tif
+Blur Score: 911.8364292116545
+Minutiae Points: 178
+Total Score: 10
+
+Image: 110_7.tif
+Blur Score: 2008.0822314768668
+Minutiae Points: 532
+Total Score: 30
+
+Image: 110_8.tif
+Blur Score: 1132.1017712721268
+Minutiae Points: 104
+Total Score: 10

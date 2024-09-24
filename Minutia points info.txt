@@ -1,0 +1,240 @@
+Image: 101_1.tif
+Number of minutiae points: 480
+------------------------
+Image: 101_2.tif
+Number of minutiae points: 409
+------------------------
+Image: 101_3.tif
+Number of minutiae points: 517
+------------------------
+Image: 101_4.tif
+Number of minutiae points: 59
+------------------------
+Image: 101_5.tif
+Number of minutiae points: 44
+------------------------
+Image: 101_6.tif
+Number of minutiae points: 708
+------------------------
+Image: 101_7.tif
+Number of minutiae points: 760
+------------------------
+Image: 101_8.tif
+Number of minutiae points: 192
+------------------------
+Image: 102_1.tif
+Number of minutiae points: 435
+------------------------
+Image: 102_2.tif
+Number of minutiae points: 540
+------------------------
+Image: 102_3.tif
+Number of minutiae points: 384
+------------------------
+Image: 102_4.tif
+Number of minutiae points: 382
+------------------------
+Image: 102_5.tif
+Number of minutiae points: 196
+------------------------
+Image: 102_6.tif
+Number of minutiae points: 781
+------------------------
+Image: 102_7.tif
+Number of minutiae points: 166
+------------------------
+Image: 102_8.tif
+Number of minutiae points: 105
+------------------------
+Image: 103_1.tif
+Number of minutiae points: 578
+------------------------
+Image: 103_2.tif
+Number of minutiae points: 566
+------------------------
+Image: 103_3.tif
+Number of minutiae points: 458
+------------------------
+Image: 103_4.tif
+Number of minutiae points: 356
+------------------------
+Image: 103_5.tif
+Number of minutiae points: 401
+------------------------
+Image: 103_6.tif
+Number of minutiae points: 575
+------------------------
+Image: 103_7.tif
+Number of minutiae points: 429
+------------------------
+Image: 103_8.tif
+Number of minutiae points: 155
+------------------------
+Image: 104_1.tif
+Number of minutiae points: 445
+------------------------
+Image: 104_2.tif
+Number of minutiae points: 581
+------------------------
+Image: 104_3.tif
+Number of minutiae points: 501
+------------------------
+Image: 104_4.tif
+Number of minutiae points: 576
+------------------------
+Image: 104_5.tif
+Number of minutiae points: 467
+------------------------
+Image: 104_6.tif
+Number of minutiae points: 498
+------------------------
+Image: 104_7.tif
+Number of minutiae points: 645
+------------------------
+Image: 104_8.tif
+Number of minutiae points: 167
+------------------------
+Image: 105_1.tif
+Number of minutiae points: 602
+------------------------
+Image: 105_2.tif
+Number of minutiae points: 384
+------------------------
+Image: 105_3.tif
+Number of minutiae points: 350
+------------------------
+Image: 105_4.tif
+Number of minutiae points: 285
+------------------------
+Image: 105_5.tif
+Number of minutiae points: 418
+------------------------
+Image: 105_6.tif
+Number of minutiae points: 326
+------------------------
+Image: 105_7.tif
+Number of minutiae points: 718
+------------------------
+Image: 105_8.tif
+Number of minutiae points: 106
+------------------------
+Image: 106_1.tif
+Number of minutiae points: 575
+------------------------
+Image: 106_2.tif
+Number of minutiae points: 602
+------------------------
+Image: 106_3.tif
+Number of minutiae points: 542
+------------------------
+Image: 106_4.tif
+Number of minutiae points: 473
+------------------------
+Image: 106_5.tif
+Number of minutiae points: 625
+------------------------
+Image: 106_6.tif
+Number of minutiae points: 530
+------------------------
+Image: 106_7.tif
+Number of minutiae points: 519
+------------------------
+Image: 106_8.tif
+Number of minutiae points: 225
+------------------------
+Image: 107_1.tif
+Number of minutiae points: 239
+------------------------
+Image: 107_2.tif
+Number of minutiae points: 272
+------------------------
+Image: 107_3.tif
+Number of minutiae points: 243
+------------------------
+Image: 107_4.tif
+Number of minutiae points: 346
+------------------------
+Image: 107_5.tif
+Number of minutiae points: 358
+------------------------
+Image: 107_6.tif
+Number of minutiae points: 650
+------------------------
+Image: 107_7.tif
+Number of minutiae points: 626
+------------------------
+Image: 107_8.tif
+Number of minutiae points: 47
+------------------------
+Image: 108_1.tif
+Number of minutiae points: 343
+------------------------
+Image: 108_2.tif
+Number of minutiae points: 323
+------------------------
+Image: 108_3.tif
+Number of minutiae points: 298
+------------------------
+Image: 108_4.tif
+Number of minutiae points: 448
+------------------------
+Image: 108_5.tif
+Number of minutiae points: 191
+------------------------
+Image: 108_6.tif
+Number of minutiae points: 580
+------------------------
+Image: 108_7.tif
+Number of minutiae points: 420
+------------------------
+Image: 108_8.tif
+Number of minutiae points: 348
+------------------------
+Image: 109_1.tif
+Number of minutiae points: 82
+------------------------
+Image: 109_2.tif
+Number of minutiae points: 162
+------------------------
+Image: 109_3.tif
+Number of minutiae points: 44
+------------------------
+Image: 109_4.tif
+Number of minutiae points: 68
+------------------------
+Image: 109_5.tif
+Number of minutiae points: 79
+------------------------
+Image: 109_6.tif
+Number of minutiae points: 20
+------------------------
+Image: 109_7.tif
+Number of minutiae points: 422
+------------------------
+Image: 109_8.tif
+Number of minutiae points: 20
+------------------------
+Image: 110_1.tif
+Number of minutiae points: 134
+------------------------
+Image: 110_2.tif
+Number of minutiae points: 136
+------------------------
+Image: 110_3.tif
+Number of minutiae points: 88
+------------------------
+Image: 110_4.tif
+Number of minutiae points: 97
+------------------------
+Image: 110_5.tif
+Number of minutiae points: 140
+------------------------
+Image: 110_6.tif
+Number of minutiae points: 178
+------------------------
+Image: 110_7.tif
+Number of minutiae points: 532
+------------------------
+Image: 110_8.tif
+Number of minutiae points: 104
+------------------------
