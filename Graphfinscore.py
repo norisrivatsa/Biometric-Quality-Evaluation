@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Define the image scores
+# image scores
 image_scores = [
     30, 30, 30, 10, 10, 40, 40, 10,  # Image scores for 101_1.tif to 101_8.tif
     30, 30, 20, 20, 10, 40, 10, 10,  # Image scores for 102_1.tif to 102_8.tif
@@ -14,10 +14,10 @@ image_scores = [
     10, 10, 10, 10, 10, 10, 30, 10,  # Image scores for 110_1.tif to 110_8.tif
 ]
 
-# Generate x-axis labels for images
+# x-axis labels for images
 image_labels = [f"Image {i+1}" for i in range(len(image_scores))]
 
-# Create the bar chart
+# bar chart
 plt.figure(figsize=(10, 6))
 plt.bar(image_labels, image_scores)
 plt.xlabel("Image")
@@ -26,5 +26,5 @@ plt.title("Total Score of Images")
 plt.xticks(rotation=90)
 plt.tight_layout()
 
-# Display the chart
+# the chart
 plt.show()
