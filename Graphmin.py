@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Define the image names and corresponding minutiae points
+# image names and corresponding minutiae points
 image_names = [
     '101_1.tif', '101_2.tif', '101_3.tif', '101_4.tif', '101_5.tif',
     '101_6.tif', '101_7.tif', '101_8.tif', '102_1.tif', '102_2.tif',
@@ -31,7 +31,7 @@ minutiae_points = [
     422, 20, 134, 136, 88, 97, 140, 178, 532, 104
 ]
 
-# Create the graph
+
 plt.bar(range(len(minutiae_points)), minutiae_points, align='center')
 plt.xticks(range(len(minutiae_points)), image_names, rotation=90)
 plt.xlabel('Image')
