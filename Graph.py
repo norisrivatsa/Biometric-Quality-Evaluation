@@ -23,18 +23,16 @@ values = [
     1134.6723074137349, 911.8364292116547, 2008.0822314768664, 1132.1017712721266
 ]
 
-# Create x-axis values (indices of the list)
+# x-axis values (indices of the list)
 x = range(len(values))
 
-# Create a line plot
+# ine plot
 plt.plot(x, values)
 
-# Set the labels for x-axis and y-axis
+# labels for x-axis and y-axis
 plt.xlabel('Index')
 plt.ylabel('Value')
 
-# Set the title of the graph
 plt.title('Line Graph')
 
-# Display the graph
 plt.show()
